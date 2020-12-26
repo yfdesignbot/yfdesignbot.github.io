@@ -78,32 +78,7 @@
   </url>
   
   <url>
-    <loc>http://yfdesignbot.github.io/blog/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yfdesignbot.github.io/categories/branding/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://yfdesignbot.github.io/categories/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yfdesignbot.github.io/categories/design/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yfdesignbot.github.io/categories/development/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yfdesignbot.github.io/categories/illustration/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
@@ -113,20 +88,45 @@
   </url>
   
   <url>
+    <loc>http://yfdesignbot.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yfdesignbot.github.io/categories/%E6%89%8B%E7%BB%98/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yfdesignbot.github.io/categories/%E6%8F%92%E7%94%BB/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yfdesignbot.github.io/categories/%E6%91%84%E5%BD%B1/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yfdesignbot.github.io/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yfdesignbot.github.io/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yfdesignbot.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://yfdesignbot.github.io/contact/</loc>
-  </url>
-  
-  <url>
     <loc>http://yfdesignbot.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yfdesignbot.github.io/categories/ui/ux-%E8%AE%BE%E8%AE%A1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yfdesignbot.github.io/about/</loc>
   </url>
   
 </urlset>
